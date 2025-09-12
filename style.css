@@ -247,7 +247,7 @@ body {
   border: 2px dashed #cbd5e1;
   border-radius: 12px;
   min-height: 80px;
-  background: #f9fafb;
+  background: #fbf08f;
   line-height: 1.6;
   color: #374151;
   text-align: left;
@@ -291,6 +291,10 @@ body.dark-mode .about-text {
 
 body.dark-mode .skill-list li {
   color: #243455;
+}
+
+body.dark-mode .subtitle {
+  color: #f9fafb
 }
 
 
@@ -381,14 +385,10 @@ body.dark-mode #idea-board {
   color: #f9fafb;
 }
 
-.idea-box {
-  background: #f9fafb;
-  color: #1f2937;
-  border: 2px dashed #cbd5e1;
-}
+
 
 body.dark-mode .idea-box {
-  background: #374151;
+  background: #7995c2;
   color: #f9fafb;
   border: 2px dashed #6b7280;
 }
